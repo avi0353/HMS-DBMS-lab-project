@@ -1,0 +1,1 @@
+<div class="alert alert-success"> Magazine # <? echo html_escape($issue->issue_id); ?> created!</div>
